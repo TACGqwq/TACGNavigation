@@ -131,7 +131,7 @@
     display: inline-block;
     width: 25px;
     height: 15px;
-    background: url('https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/off_on.png') no-repeat 0px 0px;
+    background: url("https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/off_on.png") no-repeat 0px 0px;
     cursor: pointer;
     vertical-align: middle;
   }
@@ -210,7 +210,7 @@
     border-radius: 10px;
   }
   .sidebar-menu-inner.ps-container {
-    background: url(https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/Arknights.jpg) !important;
+    background: url("https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/Arknights.jpg") !important;
     background-attachment: fixed;
   }
   .sidebar-menu.collapsed .sidebar-menu-inner {
@@ -337,7 +337,7 @@
   
   /* 鼠标图标 -----------------------------------------------------------------------开始 */
   body {
-    cursor: url(https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/整合运动.png),
+    cursor: url("https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/整合运动.png"),
       default !important;
   }
   
@@ -347,7 +347,7 @@
   button:hover,
   #nav .site-page:hover,
   .xe-widget.xe-conversations.box2.label-info {
-    cursor: url(https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/黑钢.png),
+    cursor: url("https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/黑钢.png"),
       pointer !important;
   }
   
@@ -355,7 +355,7 @@
   #footer-wrap a:hover,
   #pagination .page-number:hover,
   input#txt {
-    cursor: url(https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/天灾信使.png),
+    cursor: url("https://cdn.jsdelivr.net/gh/TACGqwq/TACGstorage/Navigation/天灾信使.png"),
       pointer !important;
   }
   /* 鼠标图标 -----------------------------------------------------------------------结束 */
